@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Apr 29 02:15:34 EDT 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=C\:\\Users\\Elder\\Desktop\\CheckersGameClient.jar
+manifest.mergeall=true
+manifest.mainclass=graphicinterface.CheckersBoardClientGUI
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
